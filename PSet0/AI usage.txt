@@ -1,0 +1,1 @@
+I used ChatGPT to help with the overall layout of the code and implementing the gymnasium environment, as I am not too familiar with classes or gymnasium. ChatGPT also aided in debugging and helping me generate print statements while I was writing the code to understand where the data was coming from so that I could write the algorithm.
